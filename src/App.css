@@ -6,7 +6,7 @@
 
 
 body {
-  background-image: url("/public/images/bg.jpg");
+  background-image: url("/public/images/bg3.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -32,4 +32,12 @@ footer {
   background-position: center;
   background-size: cover;
   color: white;
+}
+
+.text {
+  color: white;
+}
+
+.googleButton {
+  margin-top: 5px;
 }
